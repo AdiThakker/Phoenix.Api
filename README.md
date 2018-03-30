@@ -1,2 +1,2 @@
 # Phoenix.Api
-An ASPNET.core Microservice hoisted in Azure Service Fabric.
+An ASPNET.core Microservice hosted in Azure Service Fabric.
